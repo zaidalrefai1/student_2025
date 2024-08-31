@@ -1,8 +1,10 @@
 ---
 layout: base
-title: Student Home 
+title: Zaid Alrefai
 description: Home Page
 hide: true
 ---
 
-My journey starts here.
+Zaid Alrefai
+
+
