@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: journey
 title: Journey
 permalink: /journey/
 ---
