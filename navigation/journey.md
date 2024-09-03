@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Journey
+title: Journey
 permalink: /journey/
 ---
 
