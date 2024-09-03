@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Journey
-permalink: /Journey/
+permalink: /journey/
 ---
 
 My Journey
