@@ -4,4 +4,11 @@ title: Elden Ring
 permalink: /ER/
 ---
 
-Welcome to the Elden Ring Rant Page
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome to the Elden Ring Rant!</title>
+</head>
+
+</html>
