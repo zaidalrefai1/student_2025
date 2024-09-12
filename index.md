@@ -6,7 +6,124 @@ hide: true
 image: /images/mario_animation.png
 ---
 
-Welcome to my Videogame Rant Page
+
+
+<html>
+
+<h1 style="font-family:Agmena;">Welcome to My Videogame Page</h1>
+    <hr width="100%" size="5">
+ 
+<h4 style="font-family:Agmena;"> I will be discussing my favorite games and games I am currently playing and giving my opinions on them.</h4>
+
+
+<h4 style="font-family:Agmena;"> If you want to learn more about the current game I am playing, Black Myth Wukong, click below.</h4>
+
+<img align="right" 
+         src=
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslo0rYXg8r4u6D5BVrqytQtEZvKbN_Viutw&s" 
+         alt="BMWK Cover">
+
+
+<head>
+<style>
+.button {
+  background-color: #302f2f;
+  border: 2px solid #2f5937;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="vertical-center">
+<a href="https://blackmythwukong.fandom.com/wiki/Black_Myth:_Wukong_Wiki" class="button">Black Myth Wukong Wiki</a>
+ </div>
+
+</body>
+
+
+<h4 style="font-family:Agmena;"> If you want to learn more about Elden Ring and dive deeper into the game, click below</h4>
+
+<head>
+<style>
+.button {
+  background-color: #302f2f;
+  border: 2px solid #353736;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+</style>
+</head>
+<body>
+
+
+<a href="https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki" class="button">Elden Ring Wiki</a>
+
+
+</body>
+
+
+ <img align="right" 
+         src=
+"https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg" 
+         alt="Elden Ring Cover">
+
+
+<head>
+<style>
+.button {
+  background-color: #383131;
+  border: 2px solid #2f5937;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="vertical-center">
+<a href="https://eldenring.wiki.fextralife.com/Interactive+Map" class="button">Elden Ring Map</a>
+ </div>
+
+</body>
+
+
+<h4 style="font-family:Agmena;">The wikis are excellent and were my main source for information on these games. They explain lore, show you where and how to get certain items, and where anything or anyone is located</h4>
+
+
+
+</html>
 
 <!--- Concatenation of site URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}

@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Elden Ring
+title: Elden Ring Rant
 permalink: /ER/
 ---
 
+Welcome to the Elden Ring Page
+        I will be discussing weapons, bosses, builds, stats and more!
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Welcome to the Elden Ring Rant!</title>
-</head>
-
-</html>
