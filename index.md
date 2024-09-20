@@ -9,15 +9,25 @@ image: /images/mario_animation.png
 
 
 <html>
-
-<h1 style="font-family:Agmena;">Welcome to My Videogame Page</h1>
+<head>
+<style>
+body {
+  background-image: url('https://backend.artreview.com/wp-content/uploads/2022/03/heroDn3SrrTeZNNq5x62Rn4bhc-2048x1000.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<h1 style="font-family:Agmena;">Welcome to My Website</h1>
     <hr width="100%" size="5">
  
 <h4 style="font-family:Agmena;"> I will be discussing my favorite games and games I am currently playing and giving my opinions on them.</h4>
 
 
 <h4 style="font-family:Agmena;"> If you want to learn more about the current game I am playing, Black Myth Wukong, click below.</h4>
-
+<br>
+<div class="floatright">
 <img align="right" 
          src=
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslo0rYXg8r4u6D5BVrqytQtEZvKbN_Viutw&s" 
@@ -51,10 +61,10 @@ image: /images/mario_animation.png
  </div>
 
 </body>
-
+<br>
 
 <h4 style="font-family:Agmena;"> If you want to learn more about Elden Ring and dive deeper into the game, click below</h4>
-
+<br>
 <head>
 <style>
 .button {
@@ -118,12 +128,13 @@ image: /images/mario_animation.png
 
 </body>
 
-
+<br>
 <h4 style="font-family:Agmena;">The wikis are excellent and were my main source for information on these games. They explain lore, show you where and how to get certain items, and where anything or anyone is located</h4>
 
 
 
-</html>
+
+
 
 <!--- Concatenation of site URL to frontmatter image  --->
 {% assign sprite_file = site.baseurl | append: page.image %}
@@ -304,3 +315,4 @@ image: /images/mario_animation.png
   });
 
 </script>
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Black Myth Wukong Rant
+title: Black Myth Wukong Page
 permalink: /BMWK/
 ---
 

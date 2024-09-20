@@ -1,4 +1,4 @@
-title: Nighthawk Pages 
+title: My Website 
 description: "Class of 2025"
 owner_name: Zaid Alrefai
 github_username: zaidalrefai1
@@ -28,5 +28,7 @@ header_pages:
   - navigation/game.md
   - navigation/elden ring.md
   - navigation/black myth wukong.md
-  - navigation/Snake
-
+  - navigation/snake.md
+  - navigation/cookie.md
+  - navigation/calculator.md
+  - navigation/music.md

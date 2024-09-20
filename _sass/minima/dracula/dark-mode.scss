@@ -11,12 +11,12 @@ $overlay: mix($dark-grey, white, 95%);
 $overlay-light: mix($dark-grey, white, 86%);
 
 html, body, input, textarea, select, button {   
-  color: $high-emph !important;
-  background-color: $dark-grey !important;
+  color: #ffffff !important;
+  background-color: #132c1f !important;
 }
 
 a {
-    color: rgb(75, 186, 255) !important;
+    color: #ffffff !important;
 }
 
 a:hover {
@@ -24,11 +24,11 @@ a:hover {
 }
 
 .site-title, .site-title:visited, .site-nav, .page-link {
-    color: $high-emph !important;
+    color: #ffffff !important;
 }
 
 .site-nav {
-    background-color: $dark-grey;
+    background-color: #132c1f00;
     border-color: $overlay-light;
 }
 
@@ -43,11 +43,11 @@ pre, code {
 }
 
 .page-description {
-    color: $med-emph;
+    color: #3d5a4a;
 }
 
 .post-meta {
-    color: $low-emph;
+    color: #3d5a4a;
 }
 
 .post-content p, .post-content li {
@@ -55,7 +55,7 @@ pre, code {
 }
 
 .btn {
-    background-color: $overlay !important;
+    background-color: #3d5a4a !important;
     color: $high-emph !important;
     border-color: $overlay-light !important;
 }
